@@ -13,14 +13,17 @@ if price >= 49.99:
 Answer these questions about the code.  Be specific in your answers!
 
 1. Using the code snippet shown above, what would the output be?
+   The output would be "You can buy that tool for less at Home Depot!"
 
 
 
-2. Change the item price to 39.50.  Now what would the output or look like?
+3. Change the item price to 39.50.  Now what would the output or look like?
+   There would be no output as 39.50 is not greater than or equal to 49.99
 
 
 
-3. What do you notice about the code that immediately follows an if statement?  How is that code formatted or arranged?
+5. What do you notice about the code that immediately follows an if statement?  How is that code formatted or arranged?
+   It is situated two spaces out from the left side of the screen.
 
 
 ```python
@@ -33,8 +36,8 @@ else:
 ```
 
 4. What does the `%` operator do in the conditional test shown above?
+   It gets the remainder of a given number and 2, which would tell you whether the number is even or odd.
 
 
-
-5. How does the code determine if a number is even or odd?
-
+6. How does the code determine if a number is even or odd?
+   Even numbers wouldn't have a remainder while odd numbers would.
